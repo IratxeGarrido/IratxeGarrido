@@ -7,7 +7,7 @@
 
 - 💻 I'm currently working on [Skill Swap](https://skill-swap-app-0157fa39a6e9.herokuapp.com/)
 
-- 👨‍💻 All of my projects are available at [https://iratxe-garrido.netlify.app/](https://iratxe-garrido.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://iratxe-garrido.me/](https://iratxe-garrido.me/)
 
 - 💬 Ask me about **web security**
 
