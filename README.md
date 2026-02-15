@@ -1,26 +1,31 @@
-<h1 align="center">Hi 👋, I'm Iratxe (she/her)</h1>
-<h3 align="center">A queer 🏳️‍🌈 developer based in Berlin</h3>
+# Hey, I'm Iratxe (she/her) 👋
 
-🔭 I’m currently looking for a job in web development. I studied Computer Science and have worked as a Security Engineer and penetration tester for the past 7 years. 
+**Backend Software Engineer** at [fobizz](https://fobizz.com) · Building AI-powered education tools for 650k+ educators across Germany
 
-- 🌱 I’m currently learning **Ruby and JavaScript**
+I write Ruby and Rails professionally and for fun. I use AI and agentic coding tools in everything I do — from daily development to side projects. Previously spent 7 years in cybersecurity (Axel Springer, Deloitte) — now I build products instead of breaking them.
 
-- 💻 I'm currently working on [Skill Swap](https://skill-swap-app-0157fa39a6e9.herokuapp.com/)
+### What I'm working on
 
-- 👨‍💻 All of my projects are available at [iratxe-garrido.me](https://iratxe-garrido.me/)
+- 🏫 **[fobizz](https://fobizz.com)** — Backend engineer building APIs and services for Germany's leading EdTech platform (Ruby on Rails, PostgreSQL)
+- 🦆 **[Duck Dating Apps](https://app.duckdatingapps.com)** — Speed dating web app I'm building to enhance our in-person events ([repo](https://github.com/IratxeGarrido/duck-dating-apps))
+- 💎 **[WNB.rb](https://www.wnb-rb.dev/)** — Europe Lead & Technical Support for the women and non-binary Ruby community. Led the Slack → Discord migration for ~2,000 members
+- 👩‍🏫 **[Le Wagon](https://www.lewagon.com/)** — Teaching web development (Rails, PostgreSQL, Git)
 
-- 💬 Ask me about **web security**
+### Tech I use daily
 
-- 📫 How to reach me **iratxe.ggarrido@gmail.com**
+```
+Ruby · Rails · PostgreSQL · Sidekiq · REST APIs · Git · AWS
+```
 
-- ⚡ Fun fact **I love climbing 🧗‍♀️, hiking 🗻 and Rubik's cubes**
+**AI & Tooling:** Agentic coding (Claude Code, Cursor) · AI-assisted development across all workflows
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### A bit more about me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+- 🔐 MSc in IT Security from TU Darmstadt + Certified Ethical Hacker (CEH)
+- 🗣️ Into public speaking and mentoring other devs
+- 🧗‍♀️ Outside of code: climbing, hiking, and Rubik's cubes
+- 📍 Berlin, Germany
+- 📫 iratxe.ggarrido@gmail.com
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iratxegarrido&show_icons=true&locale=en&layout=compact" alt="iratxegarrido" /></p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/iratxe-garrido)
+[![Website](https://img.shields.io/badge/Duck_Dating-ff6b6b?style=flat&logo=ruby&logoColor=white)](https://app.duckdatingapps.com)
