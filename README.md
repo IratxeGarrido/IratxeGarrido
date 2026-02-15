@@ -28,4 +28,4 @@ Ruby · Rails · Claude · PostgreSQL · Sidekiq · REST APIs · GitHub
 - 📫 iratxe.ggarrido@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/iratxe-garrido)
-[![Website](https://img.shields.io/badge/Duck_Dating-ff6b6b?style=flat&logo=ruby&logoColor=white)](https://app.duckdatingapps.com)
+[![Website](https://img.shields.io/badge/Duck_Dating_Apps-ff6b6b?style=flat&logo=ruby&logoColor=white)](https://app.duckdatingapps.com)
