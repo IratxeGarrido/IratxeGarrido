@@ -14,7 +14,7 @@ I write Ruby and Rails professionally and for fun. I use AI and agentic coding t
 ### Tech I use daily
 
 ```
-Ruby · Rails · PostgreSQL · Sidekiq · REST APIs · Git · AWS
+Ruby · Rails · Claude · PostgreSQL · Sidekiq · REST APIs · GitHub
 ```
 
 **AI & Tooling:** Agentic coding (Claude Code, Cursor) · AI-assisted development across all workflows
