@@ -27,5 +27,6 @@ Ruby · Rails · Claude · PostgreSQL · Sidekiq · REST APIs · GitHub
 - 📍 Berlin, Germany
 - 📫 iratxe.ggarrido@gmail.com
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-9B44A5?style=flat&logo=google-chrome&logoColor=white)](https://iratxegarrido.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/iratxe-garrido)
 [![Website](https://img.shields.io/badge/Duck_Dating_Apps-ff6b6b?style=flat&logo=ruby&logoColor=white)](https://app.duckdatingapps.com)
