@@ -1,4 +1,4 @@
-# Hey, I'm Iratxe (she/her) 👋
+# Hey, I'm Iratxe (she/her) 👋🏳️‍🌈
 
 **Backend Software Engineer** at [fobizz](https://fobizz.com) · Building AI-powered education tools for 650k+ educators across Germany
 
@@ -7,7 +7,7 @@ I write Ruby and Rails professionally and for fun. I use AI and agentic coding t
 ### What I'm working on
 
 - 🏫 **[fobizz](https://fobizz.com)** — Backend engineer building APIs and services for Germany's leading EdTech platform (Ruby on Rails, PostgreSQL)
-- 🦆 **[Duck Dating Apps](https://app.duckdatingapps.com)** — Speed dating web app I'm building to enhance our in-person events ([repo](https://github.com/IratxeGarrido/duck-dating-apps))
+- 🦆 **[Duck Dating Apps](https://app.duckdatingapps.com)** — Speed dating web app I'm building to enhance our polyamorous in-person events ([repo](https://github.com/IratxeGarrido/duck-dating-apps))
 - 💎 **[WNB.rb](https://www.wnb-rb.dev/)** — Europe Lead & Technical Support for the women and non-binary Ruby community. Led the Slack → Discord migration for ~2,000 members
 - 👩‍🏫 **[Le Wagon](https://www.lewagon.com/)** — Teaching web development (Rails, PostgreSQL, Git)
 
